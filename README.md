@@ -1,5 +1,5 @@
 
-# Detection of Credit Card Transactions
+# Detection of Credit Card Fraud Transactions
 
 Predictions related to Credit Card transactions whether if any transaction is fraud or not based on the previous data records.
 
