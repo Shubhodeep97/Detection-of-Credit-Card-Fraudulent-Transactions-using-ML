@@ -18,11 +18,11 @@ This project focuses on developing a machine learning model to predict whether a
 
 By leveraging advanced machine learning techniques, this project aims to enhance the detection of fraudulent credit card transactions, thereby reducing financial losses and improving security for credit card users and financial institutions.
 ## Acknowledgements
- 
-Special thanks to Mr. Krish Naik for his guidance in this project and providing this dataset on his YouTube channel as well.
+Special thanks to Mr. Krish Naik for his invaluable guidance on this project and for providing the dataset.
+
 ## Source
-The dataset has been taken from 'Kaggle' website.
-URL:(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+The dataset was collected from 'Kaggle'.
+link :(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 ## Authors
 
 - Machine Learning Group - ULB (Owner)
