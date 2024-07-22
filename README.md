@@ -1,11 +1,22 @@
 
 # Detection of Credit Card Fraud Transactions
 
-Predictions related to Credit Card transactions whether if any transaction is fraud or not based on the data records.
+A Machine Learning project aims to predict whether a credit card transaction is fraudulent based on the data records.
 
 
-## About
-It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+## Overview
+This project focuses on developing a machine learning model to predict whether a given credit card transaction is fraudulent. By analyzing patterns and anomalies in transaction data, the model aims to identify potentially fraudulent activities. The project involves the following steps:
+
+1. Data Collection: Gathering a comprehensive dataset of credit card transactions, including both legitimate and fraudulent ones.
+2. Data Preprocessing: Cleaning the data, handling missing values, and normalizing features to ensure consistency and accuracy in the model's inputs.
+3. Exploratory Data Analysis (EDA): Analyzing the dataset to understand the distribution of features, identifying correlations, and visualizing data trends.
+4. Feature Engineering: Creating new features or modifying existing ones to improve the model's performance. This may include aggregating transaction history, generating statistical features, and encoding categorical variables.
+5. Model Selection: Evaluating different machine learning algorithms such as Decision Trees, Random Forests, Isolation Forests, Support Vector Machine to determine the best model for fraud detection.
+6. Model Training: Training the selected model on a subset of the dataset while ensuring to handle imbalanced classes, as fraudulent transactions are typically rare compared to legitimate ones.
+7. Model Evaluation: Assessing the model's performance using metrics like accuracy, precision, recall, F1-score to ensure it effectively identifies fraudulent transactions.
+8. Model Tuning: Fine-tuning the model's hyperparameters to optimize its performance and reduce the likelihood of false positives and false negatives.
+
+By leveraging advanced machine learning techniques, this project aims to enhance the detection of fraudulent credit card transactions, thereby reducing financial losses and improving security for credit card users and financial institutions.
 ## Acknowledgements
  
 Special thanks to Mr. Krish Naik for his guidance in this project and providing this dataset on his YouTube channel as well.
