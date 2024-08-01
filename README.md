@@ -17,8 +17,6 @@ This project focuses on developing a machine learning model to predict whether a
 8. Model Tuning: Fine-tuning the model's hyperparameters to optimize its performance and reduce the likelihood of false positives and false negatives.
 
 By leveraging advanced machine learning techniques, this project aims to enhance the detection of fraudulent credit card transactions, thereby reducing financial losses and improving security for credit card users and financial institutions.
-## Acknowledgements
-Special thanks to Mr. Krish Naik for his invaluable guidance on this project and for providing the dataset.
 
 ## Source
 The dataset was collected from 'Kaggle'.
