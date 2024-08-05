@@ -35,8 +35,5 @@ The operations are done step by step as below-
 3. Setting Algorithm.
 2. Obtaining relevant scores.
 
-## Contributing
-
-Contributions are always welcome!
 
 
